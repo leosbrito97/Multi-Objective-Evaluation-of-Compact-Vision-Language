@@ -3,7 +3,7 @@
 This repository packages the paper artifacts and supporting assets for a study on compact vision-language models (VLMs) for Brazilian Portuguese assistive image description. The evaluation goes beyond caption quality alone and compares semantic quality, image-text alignment, speech robustness, and real-time latency under a unified protocol.
 
 Repository assets:
-- [dataset/UFPE-Scenes](dataset/UFPE-Scenes)
+- [dataset/U81-Scenes](dataset/U81-Scenes)
 - [prompts](prompts)
 - [figures/analysis](figures/analysis)
 - [figures/dataset](figures/dataset)
@@ -13,7 +13,7 @@ Repository assets:
 | Item | Value |
 | --- | --- |
 | Task | Brazilian Portuguese assistive image description / audiodescription |
-| Dataset | UFPE-Scenes |
+| Dataset | U81-Scenes |
 | Images | 16 |
 | Reference captions | 1 professional PT-BR caption per image |
 | Model configurations | 9 |
@@ -60,15 +60,15 @@ The central finding is that model selection for assistive audiodescription shoul
 
 ## Dataset
 
-The repository includes the dataset under [dataset/UFPE-Scenes](dataset/UFPE-Scenes).
+The repository includes the dataset under [dataset/U81-Scenes](dataset/U81-Scenes).
 
 Structure:
-- `dataset/UFPE-Scenes/images`: the 16 input images used in the experiments
-- `dataset/UFPE-Scenes/annotations`: professional Brazilian Portuguese reference descriptions
-- `dataset/UFPE-Scenes/annotations_en`: English translations used for metrics that depend on English linguistic resources
+- `dataset/U81-Scenes/images`: the 16 input images used in the experiments
+- `dataset/U81-Scenes/annotations`: professional Brazilian Portuguese reference descriptions
+- `dataset/U81-Scenes/annotations_en`: English translations used for metrics that depend on English linguistic resources
 
 Dataset overview image:
-- [figures/dataset/ufpe_scenes_dataset_grid.png](figures/dataset/ufpe_scenes_dataset_grid.png)
+- [figures/dataset/u81_scenes_dataset_grid.png](figures/dataset/u81_scenes_dataset_grid.png)
 
 ## Prompts
 
@@ -163,7 +163,7 @@ All exported analysis figures were copied to [figures/analysis](figures/analysis
 Figures used directly in the current paper draft include:
 - `prompt_metric_scores.png`
 - `avg_times_bar.png`
-- `ufpe_scenes_dataset_grid.png`
+- `u81_scenes_dataset_grid.png`
 
 ## Repository layout
 
@@ -171,7 +171,7 @@ Figures used directly in the current paper draft include:
 .
 ├── README.md
 ├── dataset
-│   └── UFPE-Scenes
+│   └── U81-Scenes
 │       ├── annotations
 │       ├── annotations_en
 │       └── images
@@ -184,4 +184,3 @@ Figures used directly in the current paper draft include:
     ├── analysis
     └── dataset
 ```
-

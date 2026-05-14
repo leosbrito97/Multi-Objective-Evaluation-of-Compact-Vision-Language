@@ -9,4 +9,4 @@ Subfolders:
 Key figures used in the paper:
 - `analysis/prompt_metric_scores.png`
 - `analysis/avg_times_bar.png`
-- `dataset/ufpe_scenes_dataset_grid.png`
+- `dataset/u81_scenes_dataset_grid.png`
