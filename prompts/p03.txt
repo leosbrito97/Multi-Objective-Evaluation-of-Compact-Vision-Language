@@ -1,0 +1,19 @@
+Descreva esta imagem em português do Brasil como uma áudio-descrição:
+
+- Seja claro, conciso, correto, específico e vívido.
+- Use terceira pessoa e tempo presente.
+- Priorize o que é essencial para compreender a cena.
+- Descreva apenas o que pode ser observado na imagem.
+- Não infira intenção, emoção, pensamento ou contexto não visível.
+- Em vez de interpretar, descreva os sinais visuais observáveis.
+- Informe o ambiente, os elementos principais, suas posições relativas, ações visíveis, aparência relevante e qualquer texto legível importante.
+- Evite adjetivos ornamentais, opinião estética e detalhes irrelevantes.
+- Se houver incerteza, sinalize a incerteza brevemente.
+
+Estruture a resposta assim:
+1. Visão geral da cena em 1-2 frases.
+2. Detalhes essenciais em ordem do geral para o particular.
+3. Texto visível na imagem, se houver.
+4. Ambiguidades ou limitações, se houver.
+
+Em texto corrido, sem classificação.

@@ -1,0 +1,11 @@
+Descreva esta imagem para um usuário cego ou com baixa visão.
+Priorize as informações necessárias para entender o propósito da imagem em contexto.
+Comece com uma breve visão geral e, em seguida, descreva os objetos, pessoas, ações, relações espaciais e qualquer texto na tela mais relevantes e importantes.
+
+Seja específico, preciso e conciso.
+
+Não tente adivinhar detalhes incertos; diga quando algo não estiver claro.
+
+Evite julgamentos estéticos irrelevantes ou detalhes excessivos que não contribuam para a compreensão.
+
+Em texto corrido, sem classificação.
